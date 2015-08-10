@@ -1,6 +1,6 @@
 # demo-reactjs-php-bundle
 
-Provide a small demo application using qpautrat/reactjs-php-bundle
+Provide a small demo application using [qpautrat/reactjs-php-bundle](https://github.com/qpautrat/reactjs-php-bundle)
 
 ## Installation
 
