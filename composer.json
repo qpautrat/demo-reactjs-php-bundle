@@ -1,0 +1,22 @@
+{
+    "name": "qpautrat/demo-reactjs-php-bundle",
+    "description": "Provides a small demo application using qpautrat/reactjs-php-bundle",
+    "type": "project",
+    "license": "MIT",
+    "version": "1.0.0",
+    "keywords": ["react", "reactjs", "php", "bundle", "symfony", "srr", "v8js", "demo"],
+    "homepage": "https://github.com/qpautrat/demo-reactjs-php-bundle",
+    "authors": [
+        {
+            "name": "Quentin Pautrat",
+            "email": "quentin.pautrat@gmail.com"
+        }
+    ],
+    "require": {
+        "qpautrat/reactjs-php-bundle": "1.0.0",
+        "reactjs/react-php-v8js": "*@dev",
+        "symfony/framework-bundle": "~2.0",
+        "symfony/yaml": "~2.0",
+        "symfony/twig-bundle": "~2.0"
+    }
+}
